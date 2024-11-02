@@ -4,7 +4,10 @@
 ```
 npm install
 ```
-
+### Start proxy
+```
+npm run proxy
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
